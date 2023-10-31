@@ -9,8 +9,7 @@ body {
   font-weight: 800;
 }
 
-.para.small-para,
-.text .child {
+.para.small-para {
   font-size: 14px;
   font-weight: 800;
 }
@@ -31,7 +30,7 @@ p {
   font-size: 20px;
 }
 
-.child {
+.text .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
@@ -42,3 +41,4 @@ div.text {
   font-size: 22px;
   font-weight: 100;
 }
+
